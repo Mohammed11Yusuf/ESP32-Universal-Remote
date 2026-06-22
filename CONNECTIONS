@@ -1,0 +1,15 @@
+| KY-022 | ESP32-S3 |
+| ------ | -------- |
+| VCC    | 3.3V     |
+| GND    | GND      |
+| OUT    | GPIO 4   |
+
+
+
+| IR LED      | ESP32-S3                     |
+| ----------- | ---------------------------- |
+| Anode (+)   | GPIO 5 through 220Ω resistor |
+| Cathode (-) | GND                          |
+
+
+
