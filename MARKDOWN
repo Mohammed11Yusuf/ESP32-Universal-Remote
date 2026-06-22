@@ -1,0 +1,33 @@
+# ESP32 Universal Smart Remote
+
+## Overview
+
+A WiFi-enabled universal remote built using ESP32-S3.
+
+Features:
+
+- Learn IR codes
+- Store codes in flash
+- Send IR commands
+- Web dashboard
+- Control appliances from phone
+
+## Hardware
+
+- ESP32-S3
+- IR Receiver
+- IR LED
+
+## Circuit
+
+![Circuit](images/wiring.jpg)
+
+## Demo
+
+Add video link here.
+
+## Future Improvements
+
+- OLED Interface
+- Alexa Integration
+- Mobile App
